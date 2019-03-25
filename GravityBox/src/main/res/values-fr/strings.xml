@@ -789,7 +789,7 @@
     <string name="pref_cat_screenrecord_options_title">Enregistrement de l\'écran</string>
     <string name="pref_cat_screenrecord_options_summary">Regroupe les options d\'enregistrement de l\'écran</string>
     <string name="pref_screenrecord_size_title">Dimensions de la vidéo</string>
-    <string name="scr_size_default">Valeur par défaut de l\'appareil</string>
+    <string name="scr_size_default">Valeurs par défaut de l\'appareil</string>
     <string name="scr_size_sd">SD (360x640 px)</string>
     <string name="scr_size_hd">HD (720x1280 px)</string>
     <string name="scr_size_full_hd">Full HD (1080x1920 px)</string>
